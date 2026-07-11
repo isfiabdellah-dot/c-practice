@@ -15,4 +15,6 @@ printf("value of x from *ptr : %d\n",*ptr);
 
 *ptr=99;
 printf("value of x after changing value : %d\n", x);
+
+return 0;
 }
