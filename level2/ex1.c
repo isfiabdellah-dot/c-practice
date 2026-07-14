@@ -1,4 +1,4 @@
-
+//Exercise 2.1: Walk the Array (Pointer Arithmetic)
 #include <stdio.h>
 
 int main(){

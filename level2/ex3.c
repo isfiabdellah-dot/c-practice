@@ -1,4 +1,5 @@
-
+//Exercise 2.3: Array of Pointers 
+//(String Manipulation)
 #include <stdio.h>
 
 int main(){

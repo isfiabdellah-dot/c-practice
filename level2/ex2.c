@@ -1,3 +1,4 @@
+// Exercise 2.2: DIY String Length
 
 #include <stdio.h>
 int string_length(char *str);

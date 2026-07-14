@@ -1,4 +1,7 @@
+//Exercise 1.2: The Size Detective
+
 #include <stdio.h>
+
 
 int main(){
 
