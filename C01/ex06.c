@@ -1,9 +1,10 @@
 #include <unistd.h>
+#include <stdio.h>
 
 int	ft_strlen(char *str);
 int main(){
-    char mystr[]="Hello World!";
-    ft_strlen(mystr);
+    char mystr[]="Hello World";
+    printf("%d",ft_strlen(mystr));
     
     return 0;
 }
